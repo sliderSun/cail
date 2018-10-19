@@ -3,7 +3,7 @@
 ## 法律数据集
 
 ### 文件组成
-**cail2018_big.json**: 171w
+**CAIL2018_ALL_DATA.zip: 171w  链接: https://pan.baidu.com/s/1IjqUUjO509ioisTWDUMCSg 提取码: w4gy
 
 ### 数据组成
 数据中涉及 **183个法条**、**202个罪名**，均为刑事案件
