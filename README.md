@@ -55,8 +55,8 @@ https://github.com/Embedding/Chinese-Word-Vectors
 |- data_helper.py　　　　　   　        # 数据处理辅助函数<br/>
 |- evaluator.py　                       # 评价函数<br/>
 |- utils.py                             # 其他函数<br/>
-
-下面是我实验中的一些环境依赖，版本只提供参考。
+|- cn_to_arabic.py                      # 中文金额的处理可以将其转换数字金额 脚本<br/>
+|-judger.py                          # 评分脚本<br/>
 
 |环境/库|版本|
 |:---------:|----------|
