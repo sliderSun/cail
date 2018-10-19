@@ -58,7 +58,7 @@ Python包：jieba。
 |环境/库|版本|
 |:---------:|----------|
 |Ubuntu|16.04 LTS|
-|python|3.5.0|
+|python|3.5.1|
 |tensorflow-gpu|1.4.0|
 
 ## 代码运行
