@@ -62,7 +62,7 @@ Python包：jieba。
 |tensorflow-gpu|1.4.0|
 
 ## 代码运行
-law_id.py --> embed2ndarray.py --> fact2dic_law2id.py --> fact2words.py --> word2id.py --> batch_data.py
+accu_id.py --> embed2ndarray.py --> fact2dic_law2id.py --> fact2words.py --> word2id.py --> batch_data.py
 
 train.py --> predict.py
 
