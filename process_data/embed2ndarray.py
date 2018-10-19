@@ -50,7 +50,7 @@ def get_word_embedding(embedding_size, file_embed):
 
 
 if __name__ == '__main__':
-    embedding_size = 256
+    embedding_size = 300
     file_embed = 'word_embedding'
     get_word_embedding(embedding_size, file_embed)
 
