@@ -33,6 +33,9 @@
 分词
 Python包：jieba。
 
+## 中文词向量
+https://github.com/Embedding/Chinese-Word-Vectors
+
 ## 模型
 此部分涉及两个模型：TextCNN，Attention。
 
